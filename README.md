@@ -1,4 +1,4 @@
-# Canny, Sobel and Prewitt Edge Detection in Python
+# Canny, Sobel and Prewitt Edge Detection Techniques in Python
 
 This Python code demonstrates different image edge detection techniques using the OpenCV library. It loads an image, applies various edge detection methods, and displays the results using Matplotlib.
 

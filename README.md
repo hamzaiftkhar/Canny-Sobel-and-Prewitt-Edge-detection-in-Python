@@ -67,7 +67,7 @@ The output will be a Matplotlib window showing the original image and the result
 
 ## Authors
 
-- [Hamza Iftikhar] - [Your GitHub Profile]([https://github.com/yourusername](https://github.com/hamzaiftkhar))
+- [Hamza Iftikhar](https://github.com/hamzaiftkhar)
 
 ## Acknowledgments
 
